@@ -1,15 +1,15 @@
-# 🎙️ AI Mock Interviews
+# AI Mock Interviews
 
 A real-world **AI-powered mock interview platform** built with **Next.js**, **OpenAI GPT-4**, and **Vapi** for voice-driven, realistic practice interviews.
 
-## 🚀 What it does
+## What it does
 
 ✅ Generates smart interview questions with GPT-4
 ✅ Supports live voice interaction using Vapi’s voice AI
 ✅ Transcribes answers & gives real-time feedback
 ✅ Runs on a clean, scalable Next.js app
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * **Next.js 14** (App Router)
 * **TypeScript**
@@ -18,7 +18,7 @@ A real-world **AI-powered mock interview platform** built with **Next.js**, **Op
 * **Tailwind CSS**
 * **Firebase or Supabase** (optional, for user data)
 
-## 📌 How to Run Locally
+## How to Run Locally
 
 ```bash
 # 1️⃣ Clone this repo
